@@ -99,6 +99,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gui-lhermeolimpio/gui-lhermeolimpio/output/snake.svg" alt="Snake animation" />
-
 ###
