@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/417607085_1537244093862904_2953336625519104287_n.jpg?ccb=11-4&oh=01_Q5AaIEVsWqLyRdoOWkEAtteMFf31K72gPQjRt2x6A1m7j6-P&oe=66D265E8&_nc_sid=5e03e0&_nc_cat=106"  />
+<img align="right" height="100" src="https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/417607085_1537244093862904_2953336625519104287_n.jpg?ccb=11-4&oh=01_Q5AaIEVsWqLyRdoOWkEAtteMFf31K72gPQjRt2x6A1m7j6-P&oe=66D265E8&_nc_sid=5e03e0&_nc_cat=106"  />
 
 ###
 
