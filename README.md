@@ -81,10 +81,6 @@ Sou apaixonado por criar interfaces intuitivas e chamativas, sempre buscando apr
 
 ###
 
-<div align="center">
-  <img height="200" src="https://pa1.aminoapps.com/6900/cc1a91cc30959ce1329a0a9bdd5ba07f29f89e0cr1-250-250_hq.gif"  />
-</div>
-
 ###
 
 <br clear="both">
@@ -93,9 +89,6 @@ Sou apaixonado por criar interfaces intuitivas e chamativas, sempre buscando apr
 
 ###
 
-<div align="center">
-  <img height="200" src="https://pa1.aminoapps.com/6900/cc1a91cc30959ce1329a0a9bdd5ba07f29f89e0cr1-250-250_hq.gif"  />
-</div>
 
 ###
 
