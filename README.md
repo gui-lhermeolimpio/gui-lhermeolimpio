@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">👋 Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end.</h2>
+<h2 align="center">👋 Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end e UX / UI Design.</h2>
 
 ###
 
@@ -18,7 +18,20 @@
 
 ###
 
-<h3 align="left">Eu sou o Guilherme Olimpio Rodrigues! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Ourinhos (Fatec). Estou sempre em busca de evoluir minhas habilidades e aprender algo novo todos os dias! 🚀<br><br>Sou um grande entusiasta de tecnologia e tenho experiência como estagiário na Expecto System em Ourinhos - SP, onde trabalhei com Desenvolvimento em Flutter e Suporte ao Cliente. 💻📞<br><br>Além disso, tenho um bom domínio de ferramentas de escritório, como Excel, Word e PowerPoint. 📊✍️<br><br>Também adoro design e web design! Tenho conhecimentos em HTML5 e CSS3, JavaScript e React.js, além de ferramentas como Figma, o Pacote Adobe e Canva. 🎨✨<br><br>Acredito que, com minha experiência e paixão por tecnologia, posso trazer uma contribuição positiva para qualquer equipe com a qual eu trabalhe. Vamos juntos fazer algo incrível! 💪</h3>
+<h3 align="left">Olá! Me chamo Guilherme Olimpio Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos (3º semestre), com foco em UX/UI Design, Web Design e Front-end. Tenho experiência com prototipação, wireframing e criação de interfaces, além de habilidades em desenvolvimento front-end utilizando HTML, CSS, JavaScript e React.js. <br></br>
+
+Atualmente, sou estagiário em Web Design na CasaH, onde trabalho com edição de imagens. Também atuei como designer gráfico na AssertTech, criando peças para campanhas digitais, e tenho experiência anterior com Flutter e suporte a sistemas ERP. <br></br>
+
+Sou apaixonado por criar interfaces intuitivas e chamativas, sempre buscando aprimorar minhas habilidades e acompanhar as novidades do mundo tecnológico. <br></br>
+
+📌 Habilidades principais:
+🎨 UX/UI Design (Figma, Prototipação, Wireframing, Design System) <br></br>
+💻 Desenvolvimento Front-end (HTML, CSS, JavaScript, React.js) <br></br>
+🖌️ Design Gráfico (Photoshop, Illustrator, After Effects, Canva) <br></br>
+🚀 Estudando Salesforce (Trailhead - Admin & Dev - Mountaineer, 18.550 pontos) https://www.salesforce.com/trailblazer/guilhermeolimpio <br></br>
+
+💼 Portfólio: https://www.behance.net/guilhermeolimpio <br></br>
+📩 Contato: guilherme.olimpio2020@gmail.com</h3> <br></br>
 
 ###
 
