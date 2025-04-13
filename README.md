@@ -14,8 +14,6 @@
 
 <br clear="both">
 
-<img align="right" height="100" src="https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/417607085_1537244093862904_2953336625519104287_n.jpg?ccb=11-4&oh=01_Q5AaIEVsWqLyRdoOWkEAtteMFf31K72gPQjRt2x6A1m7j6-P&oe=66D265E8&_nc_sid=5e03e0&_nc_cat=106"  />
-
 ###
 
 <h3 align="left">Olá! Me chamo Guilherme Olimpio Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos (3º semestre), com foco em UX/UI Design, Web Design e Front-end. Tenho experiência com prototipação, wireframing e criação de interfaces, além de habilidades em desenvolvimento front-end utilizando HTML, CSS, JavaScript e React.js. <br></br>
@@ -61,7 +59,6 @@ Sou apaixonado por criar interfaces intuitivas e chamativas, sempre buscando apr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
