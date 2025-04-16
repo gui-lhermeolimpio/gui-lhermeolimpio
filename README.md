@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">👋 Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end e UX / UI Design.</h2>
+<h2 align="center">Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end e UX / UI Design.</h2>
 
 ###
 
