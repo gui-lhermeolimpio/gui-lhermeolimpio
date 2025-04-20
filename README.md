@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end e UX / UI Design.</h2>
+<h2 align="center">Eae, tranquilo? Meu nome é Guilherme! Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por Front-end e UX/UI Design.</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Olá! Me chamo Guilherme Olimpio Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos (3º semestre), com foco em UX/UI Design, Web Design e Front-end. Tenho experiência com prototipação, wireframing e criação de interfaces, além de habilidades em desenvolvimento front-end utilizando HTML, CSS, JavaScript e React.js. <br></br>
+<h3 align="left">Olá! Me chamo Guilherme Olimpio Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos (3º semestre), com foco em UX/UI Design, Web Design e Front-end. Tenho experiência com prototipação e criação de interfaces, além de habilidades em desenvolvimento front-end utilizando HTML, CSS, JavaScript e React.js. <br></br>
 
 Atualmente, sou estagiário em Web Design na Casa H, onde trabalho com edição de imagens para o e-commerce da empresa. Também atuei como designer gráfico na AssertTech, criando criativos para empresas e redes-sociais, além disso, também tenho experiência anterior na Expecto System como Desenvolvedor Flutter, utilizando Dart como linguagem de programação para o design e implementação de funcionalidades no sistema da empresa, além do suporte a sistemas ERP. <br></br>
 
