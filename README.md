@@ -14,7 +14,6 @@
 
 <br clear="both">
 
-
 ###
 
 <h3 align="left">Olá! Me chamo Guilherme Olimpio Rodrigues, estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos (3º semestre), com foco em UX/UI Design, Web Design e Front-end. Tenho experiência com prototipação e criação de interfaces, além de habilidades em desenvolvimento front-end utilizando HTML, CSS, JavaScript e React.js. <br></br>
